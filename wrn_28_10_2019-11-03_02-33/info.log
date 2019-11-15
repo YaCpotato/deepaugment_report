@@ -1,0 +1,29 @@
+DEBUG:matplotlib:CACHEDIR=/home/acb11354uz/.cache/matplotlib
+DEBUG:matplotlib.font_manager:Using fontManager instance from /home/acb11354uz/.cache/matplotlib/fontlist-v300.json
+DEBUG:matplotlib.pyplot:Loaded backend qt5agg version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend tkagg version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend agg version unknown.
+DEBUG:matplotlib.pyplot:Loaded backend agg version unknown.
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/home/acb11354uz/B4new/deep/lib/python3.6/site-packages/shapely/.libs/libgeos_c-bd8d3f16.so.1.10.2', handle 2b0ffa0 at 0x2ac929f38eb8>, using it.
+DEBUG:shapely.geos:Trying `CDLL(libc.so.6)`
+DEBUG:shapely.geos:Library path: 'libc.so.6'
+DEBUG:shapely.geos:DLL: <CDLL 'libc.so.6', handle 2ac7ad989320 at 0x2ac929f38f98>
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:71: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:514: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:4076: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:171: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:178: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:1811: The name tf.nn.fused_batch_norm is deprecated. Please use tf.compat.v1.nn.fused_batch_norm instead.
+
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/keras/backend/tensorflow_backend.py:3900: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/keras/optimizers.py:757: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+WARNING:tensorflow:From /home/acb11354uz/B4new/deep/lib/python3.6/site-packages/tensorflow/python/ops/math_grad.py:1250: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
